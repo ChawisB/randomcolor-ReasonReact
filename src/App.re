@@ -11,39 +11,39 @@ let make = _children => {
       
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="blue", ())}></div>
 
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="green", ())}></div>
     </div>
 
     <div className="container-row2" style={ReactDOMRe.Style.make(~display="flex", ~flexDirection="row", ())}>
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="yellow", ())}></div>
 
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="pink", ())}></div>
 
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="purple", ())}></div>
     </div>
 
     <div className="container-row3" style={ReactDOMRe.Style.make(~display="flex", ~flexDirection="row", ())}>
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="black", ())}></div>
 
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="gray", ())}></div>
 
       <div style={ReactDOMRe.Style.make(~height="100px", ~width="100px",
       ~marginLeft="100px", ~marginBottom="50px",
-      ~backgroundColor="red", ())}></div>
+      ~backgroundColor="gold", ())}></div>
     </div>
   </div>
 };
